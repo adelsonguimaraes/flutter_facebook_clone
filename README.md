@@ -1,16 +1,33 @@
-# flutter_facebook_clone
+# Flutter Facebook Clone
+Projeto de estudo fazendo o clone da interface do Facebook com Flutter, versão Mobile e Web com responsividade.
 
-A new Flutter project.
+## Aprendizados
+Nessso projeto foi possível avançar no conhecimento de layouts complexos com Flutter, entender o uso de components, aprender de forma inteligente como utilizar componetizações e ainda de forma muito simples e prática como trabalhar com responsividade.
 
-## Getting Started
+## Tecnologias
+* Flutter
 
-This project is a starting point for a Flutter application.
+## Pacotes
+* Material Design Icons Flutter
+* Cached Network Image
 
-A few resources to get you started if this is your first Flutter project:
+## Como rodar o projeto
+Para rodar esse projeto
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Tenha todo o ambiente de desenvolviimento Flutter configurado em sua máquina.
+2. Clone este repositório em um lugar de sua preferência em sua máquina.
+3. Baixe os pacotes utilizados no projeto rodando o comando abaixo no terminal dentro da pasta raiz do projeto.
+```sh
+flutter pub get
+```
+4. Use uma IDE ou terminal para rodar o projeto, no chrome, dispositivo móvel ou emulador.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Resultado Final
+Abaixo é possível ver o resultado final.
+
+![preview](./screenshot/flutter_facebook_clone.gif)
+
+## Referência
+Esse projeto foi feito seguindo o incrível conteúdo do video no link abaixo, algumas mudanças foram necessárias devido a versão mais atual das ferramenta.
+
+[![referencia](https://i.ytimg.com/vi/HvLb5gdUfDE/hqdefault_7866.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBZK5RnziM66MlrRLQnqLIGRcGIOQ)](https://www.youtube.com/watch?v=HvLb5gdUfDE)
